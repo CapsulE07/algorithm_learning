@@ -1,0 +1,2 @@
+def kmp(input, pattern):
+    
